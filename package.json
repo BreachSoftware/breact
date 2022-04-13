@@ -1,0 +1,19 @@
+{
+  "name": "@breact/native",
+  "version": "1.0.0",
+  "description": "Component library and utility functions developed by Breach Software for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreachSoftware/breact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BreachSoftware/breact/issues"
+  },
+  "homepage": "https://github.com/BreachSoftware/breact#readme"
+}
